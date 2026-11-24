@@ -95,7 +95,7 @@ Source : [FrenchQuant — Partenaires](https://www.frenchquant.com/partenaires).
 
 | # | Ouvrage | Accès gratuit identifié |
 |---:|---|---|
-| 1 | Statistique et probabilités — Jean-Pierre Lecoutre | [PDF fourni par l'utilisateur](http://livre21.com/LIVREF/F12/F012072.pdf) — contenu et autorisation de diffusion non vérifiés |
+| 1 | Statistique et probabilités — Jean-Pierre Lecoutre | [PDF](http://livre21.com/LIVREF/F12/F012072.pdf) |
 | 2 | Mathématiques pour l'économie | — |
 | 3 | Programmer avec Python — O'Reilly | — |
 | 4 | Programming Rust | — |
