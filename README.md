@@ -57,6 +57,8 @@ A curated, clickable library for **mathematics, Python, C++, algorithms, quantit
 | [QuantEcon Lectures](https://python.quantecon.org/) | Sargent, Stachurski et al. | Dynamic models, numerical economics, Python | Free online textbook-style lectures |
 | [Python for Finance — companion notebooks](https://github.com/yhilpisch/py4fi2nd) | Yves Hilpisch | Financial computing | Free code only; book is paid |
 
+| [The Evaluation and Optimization of Trading Strategies, 2nd ed.](https://www.wiley.com/en-us/The+Evaluation+and+Optimization+of+Trading+Strategies%2C+2nd+Edition-p-9780470128015) | Robert Pardo (2008) | Strategy design, backtesting, optimization, walk-forward analysis | [Third-party PDF](https://www.arabictrader.com/cdn/application/2009/05/28/pdf/v202/07A60519-8570-744D-72D5-2C1D0C69349D.pdf) (copyrighted; redistribution rights not verified) |
+
 ## 🎲 Statistics & Probability
 
 | Book | Author | Level | Access |
